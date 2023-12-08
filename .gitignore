@@ -1,0 +1,8 @@
+__pycache__/**
+migrations/**
+venv/**
+/helpers/database/__pycache__
+/helpers/logger/__pycache__
+/helpers/utils/__pycache__
+/model/__pycache__
+/resourses/__pycache__
