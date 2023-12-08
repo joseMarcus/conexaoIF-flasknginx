@@ -5,4 +5,4 @@ venv/**
 /helpers/logger/__pycache__
 /helpers/utils/__pycache__
 /model/__pycache__
-/resourses/__pycache__
+/resources/__pycache__
